@@ -1,4 +1,4 @@
-# defensa-     
+# defensa fase 2     
 : Entrega de un Primer Prototipo
 
 
@@ -32,6 +32,6 @@ b
 
 * [Manual de usuario en la nube] https://github.com/Luisstevenvp223344/defensa-fase2/blob/main/manual%20de%20usuario.pdf
 * [Manual Técnico https://github.com/Luisstevenvp223344/defensa-fase2/blob/main/manual%20tecnico.pdf
-* [Enlace a Mockups] - 
+* [Enlace a Mockups] https://github.com/Luisstevenvp223344/defensa-fase2/tree/main/mockups
 
 
