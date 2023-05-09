@@ -1,5 +1,6 @@
-# defensa fase 2     
-: Entrega de un Primer Prototipo
+# defensa fase  final
+: Entrega del proyecto finanl, ahora responsive y con un diseño mucho mejor, tambien solucionado el problema al cambiar de orden y el tota de la orden.
+
 
 
 ## Herramientas 🛠️
